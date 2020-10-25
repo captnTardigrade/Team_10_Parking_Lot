@@ -20,6 +20,8 @@ These contain the ideas that we discussed and our rough planning for implementat
 ## DisplayBoard.java
 A simple display which is present at the entrance and exits to display the required messages.
 
+## ExitSystem.java
+This handles payments at the exit.
 ## ParkingAttendant.java
 A dummy parking attendant to perform transaction by cash at the exit.
 
