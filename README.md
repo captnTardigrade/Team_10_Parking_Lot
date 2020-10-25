@@ -31,3 +31,7 @@ This file integrates all the modules. This is a parking lot.
 
 ## ParkingSpot.java
 A parking spot.
+
+## Link to previous repo
+This is the original repo that we worked on
+https://github.com/captnTardigrade/PM-Case-Study-1
