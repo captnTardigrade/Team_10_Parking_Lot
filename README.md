@@ -12,7 +12,7 @@ Database for a bank which contains dummy balance to add randomness
 This contains an implementation of a bank with card valdation and PIN verification. The PIN verification is 98% of the time successful and fails 2% of the time.
 
 ## CustomerData.csv
-A database for storing and accessing the details of the customers
+A database for storing and accessing the details of the customers.
 
 ## Discussion Notes 1.pdf and Discussion Notes 2.pdf
 These contain the ideas that we discussed and our rough planning for implementation. We had to change almost everything from our first discussion in the second discussion because we gained a lot more insights from sir's feedback.
