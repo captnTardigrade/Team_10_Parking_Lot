@@ -24,7 +24,7 @@ A simple display which is present at the entrance and exits to display the requi
 A dummy parking attendant to perform transaction by cash at the exit.
 
 ## ParkingFloor.java
-A parking floor with parking spots
+A parking floor with parking spots.
 
 ## ParkingLot.java
 This file integrates all the modules. This is a parking lot.
